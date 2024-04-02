@@ -1,8 +1,15 @@
-#title
-##title
-###title
-####title
-#####title
+# title
+## title
+### title
+#### title
+##### title
+
+`
+num = 10
+console.log(num)
+`
+
+
 - 👋 Hi, I’m @seughun12323
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
